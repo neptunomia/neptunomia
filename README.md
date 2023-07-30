@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Noémie !
-- 👀 I’m interested and passionate about web development.
-- 🌱 I’m improving my knowledge of Next.js and React.js. I'm also learning Node.js, Express and MongoDB.
-- 💞️ I’m looking to collaborate on projects with front-end needs for now. I work with Next.js, React.js and Sass (Vanilla JavaScript for small projects). 
-- 📫 You can reach me on my LinkedIn page at https://www.linkedin.com/in/noemiehoudou/.
+# Hi 👀, I’m Noémie!
+
+Rigorous, creative and passionate, I'm an independent front-end developer 👩‍💻 established in France 🇫🇷. 
+
+I’m really interested about creative development 🎨 and learning new stuffs 📚. In addition to my job, I draw and paint 👩‍🎨.
+
+I mainly work with **Next.js, React.js and Sass**. Besides, I continue to develop my skills with **Node.js, Express.js and MongoDB**. 
+
+I am interested in collaborating on open-source projects for front-end needs.
+
+
+📫 You can reach me on my LinkedIn page at https://www.linkedin.com/in/noemiehoudou/.
+
+![](https://komarev.com/ghpvc/?username=noemie-houdou&color=00a99d)
 
 <!---
 noemie-houdou/noemie-houdou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
