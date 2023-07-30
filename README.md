@@ -11,8 +11,6 @@ I am interested in collaborating on open-source projects for front-end needs.
 
 📫 You can reach me on my LinkedIn page at https://www.linkedin.com/in/noemiehoudou/.
 
-![](https://komarev.com/ghpvc/?username=noemie-houdou&color=00a99d)
-
 <!---
 noemie-houdou/noemie-houdou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
